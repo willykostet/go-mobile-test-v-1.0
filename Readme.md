@@ -1,6 +1,6 @@
 В проекте использованы : 
-HTML
-CSS + Bootstrap
+HTML;
+CSS + Bootstrap;
 JS-код написанный по принципу Redux. (подробнее ниже)
 
         Проект выложу на gh-pages
